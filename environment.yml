@@ -1,0 +1,14 @@
+name: flymap
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - fsspec
+  - geopandas
+  - jupyter
+  - numpy
+  - pandas
+  - pip
+  - pre-commit
+  - s3fs
+  - xarray
