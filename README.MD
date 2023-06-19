@@ -10,6 +10,6 @@ This will create a environment called `flymap`, that has all the required python
 
 Next you will activate it by running:
 
-```mamba activate flymap`
+`mamba activate flymap`
 
 Now you should be able to run the `map.ipynb` notebook. If you have `vscode`, click on the `.ipynb` file to open it. If not, in terminal in this directory run `jupyter-notebook map.ipynb` to start a notebook in your browser.
